@@ -7,3 +7,7 @@ Although it is the first time creating a GUI system, it only took 10 hours to fi
 
 Implemented rules can be found here:
 https://en.wikipedia.org/wiki/Perpetual_Motion_(solitaire)#Idiot.27s_Delight_.28Alternate_Rules.29
+
+How to Use:
+
+In order to see output information / notification, please run the .jar file from command line using "java -jar IdiotsDelight.jar"
